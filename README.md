@@ -32,8 +32,8 @@ I'm an M.Sc. Cybersecurity student focused on defensive security and hands-on le
 | Monitoring & analysis | Wazuh, Wireshark, Zeek, Snort, TShark |
 | Network assessment | Nmap, TCP/IP, DNS, HTTP(S), VPN/IPsec |
 | Systems | Linux, Arch Linux, Windows, Docker |
-| Programming | Python, Bash, JavaScript, SQL |
-| Development | Git, GitHub, FastAPI, React |
+| Programming | Python, Bash, SQL |
+| Development | Git, GitHub |
 
 *This list reflects tools I am learning and using in projects; proficiency varies by tool.*
 
