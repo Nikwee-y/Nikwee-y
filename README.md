@@ -5,7 +5,7 @@
 
 Building practical security labs, learning to investigate alerts, and documenting what I learn.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Nikwee--y-181717?style=flat-square&logo=github)](https://github.com/Nikwee-y)
+[![GitHub](https://img.shields.io/badge/GitHub-Nikwee--y-181717?style=flat-square&logo=github)]
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=flat-square&logo=tryhackme)](https://tryhackme.com/p/Nikwee.e)
 
 </div>
